@@ -1,6 +1,9 @@
-import React from 'react'
+interface ICardProps {
+  children: any;
+  bg: string;
+}
 
-const Card = ({children, bg = 'bg-gray-100'}) => {
+const Card: React.FC<ICardProps> = ({children, bg = 'bg-gray-100'}) => {
   return (
     <div className={`${bg} p-6 rounded-lg shadow-md`}>
         { children }
