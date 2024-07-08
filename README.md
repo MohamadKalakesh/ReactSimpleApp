@@ -4,3 +4,5 @@
 - install "ES7+ React/Redux/React-Native snippets" extension for vs code
 - npm install -D tailwindcss postcss autoprefixer
 - npx tailwindcss init -p
+- npm i react-icons
+- npm i react-router-dom
