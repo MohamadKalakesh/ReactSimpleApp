@@ -6,3 +6,6 @@
 - npx tailwindcss init -p
 - npm i react-icons
 - npm i react-router-dom
+- npm i -D json-server
+- npm i react-spinners
+- react suspense alternative for useEffect
