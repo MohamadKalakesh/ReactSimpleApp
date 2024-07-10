@@ -9,3 +9,4 @@
 - npm i -D json-server
 - npm i react-spinners
 - react suspense alternative for useEffect
+- npm i react-toastify
